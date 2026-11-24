@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Vela sem foto cadastrada">
+  <defs>
+    <radialGradient id="fundo" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#fffdf9"/>
+      <stop offset="1" stop-color="#efe2d0"/>
+    </radialGradient>
+    <linearGradient id="cera" x1="0" x2="1">
+      <stop offset="0" stop-color="#f7e9d7"/>
+      <stop offset="1" stop-color="#e6d0ae"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#fundo)"/>
+  <ellipse cx="200" cy="352" rx="120" ry="14" fill="#0e1e3a" opacity=".12"/>
+  <rect x="150" y="150" width="100" height="190" rx="10" fill="url(#cera)"/>
+  <ellipse cx="200" cy="150" rx="50" ry="9" fill="#e4cfae"/>
+  <path d="M200 141 C196 125 210 116 206 98" stroke="#746d79" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M206 98 C214 88 226 92 222 104 C218 112 208 110 206 98Z" fill="#d9b77e"/>
+  <path d="M164 200 H236" stroke="#b95a6e" stroke-width="2" opacity=".45"/>
+  <text x="200" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#746d79">Foto em breve</text>
+</svg>
